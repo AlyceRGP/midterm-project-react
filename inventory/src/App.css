@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navi {
+  font-size: 15px;
+}
+
+.addSection,
+.search {
+  padding: 50px 300px;
+}
+
+.categoryDropdown {
+  padding: 5px 0px;
+}
+
+.displayAll {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
